@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "==4.0.5"
+numpy = "==1.25.2"
+pandas = "==2.0.3"
+matplotlib = "==3.7.2"
+requests = "==2.31.0"
+ipykernel = "*"
+jupyter = "*"
+lab = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11.4"
