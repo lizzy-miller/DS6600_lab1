@@ -14,4 +14,4 @@ WORKDIR /DS600_lab1
 
 EXPOSE 8000
 
-CMD ["python3", "--ip=0.0.0.0","--allow-root"]
+CMD ["python3"]
