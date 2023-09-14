@@ -1,5 +1,5 @@
 # DS6600_lab1
-First lab assignment for DS600 2023
+First lab assignment for DS6600 2023
 
 # Why did I picked license GNUGPLv3.0. 
 
